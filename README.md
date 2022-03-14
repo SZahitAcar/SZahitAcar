@@ -6,7 +6,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
 ### Connect With Me :
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zahitacar#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zahitacar)
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=SZahitAcar&show_icons=true&theme=radical)
