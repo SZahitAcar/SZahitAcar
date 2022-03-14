@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything...
 
 ### Connect With Me :
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zahitacar/r#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zahitacar#gh-light-mode-only)
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=SZahitAcar&show_icons=true&theme=radical)
