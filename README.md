@@ -7,13 +7,13 @@
 
 ### Connect With Me :
 
-<a href="https://linkedin.com/in/zahitacar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahitacar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zahitacar" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zahitacar" height="30" width="40" /></a>
 
-<a href="https://stackoverflow.com/users/17879834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zahitacar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17879834" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zahitacar" height="30" width="40" /></a>
 
-<a href="https://instagram.com/zahit.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahitacar" height="30" width="40" /></a>
+<a href="https://instagram.com/zahit.a" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zahitacar" height="30" width="40" /></a>
 
-<a href="https://twitter.com/zahitacar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zahitacar" height="30" width="40" /></a>
+<a href="https://twitter.com/zahitacar" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zahitacar" height="30" width="40" /></a>
 
 
 ### Languages And Tools: 
@@ -33,7 +33,7 @@
 
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=SZahitAcar&show_icons=true&theme=radical)
+-![Github stats 2](https://github-readme-stats.vercel.app/api?username=SZahitAcar&show_icons=true&theme=radical)
 
 
 <!--
