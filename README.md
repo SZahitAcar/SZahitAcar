@@ -15,7 +15,8 @@
 
 <a href="https://twitter.com/zahitacar" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zahitacar" height="30" width="40" /></a>
 
-
+<br />
+<br />
 
 
 ### Languages And Tools: 
@@ -32,6 +33,8 @@
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
+<br/>
+<br/>
 
 ### 📫 
 
