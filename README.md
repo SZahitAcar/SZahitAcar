@@ -16,6 +16,8 @@
 <a href="https://twitter.com/zahitacar" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zahitacar" height="30" width="40" /></a>
 
 
+
+
 ### Languages And Tools: 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -31,9 +33,9 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 
+### 📫 
 
-
--![Github stats 2](https://github-readme-stats.vercel.app/api?username=SZahitAcar&show_icons=true&theme=radical)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=SZahitAcar&show_icons=true&theme=radical)
 
 
 <!--
